@@ -1,4 +1,0 @@
-InversionCount
-==============
-
-Inversion Count
